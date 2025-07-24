@@ -139,3 +139,31 @@
 .plant-prc{
     margin-top: -10px;
 }
+
+/* plants lover styles */
+.plants-lover{
+    justify-content: space-between;
+    gap: 40px;
+    margin-top: 150px;
+    /* background-color: aquamarine; */
+}
+.plants-lover-pic img{
+    width: 100%;
+}
+.plants-lover-content{
+    width: 460px;
+    height: 450px;
+    margin-top: 50px;
+    margin-right: -30px;
+    /* border: solid 2px azure; */
+}
+.plants-lover-list{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.1rem;
+    margin-left: -18px;
+}
+.badge img{
+    width: 200px;
+    margin-left: -590px;
+    margin-top: -80px;
+}
