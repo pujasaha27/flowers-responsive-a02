@@ -1,0 +1,53 @@
+@media screen and (max-width:576px) {
+
+    /* header style */
+
+    .body{
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .navbar{
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .nav-iteam{
+        display: none;
+    }
+    .navbar img{
+        max-width: 50%;
+    }
+    .banner{
+        flex-direction: column-reverse;
+    }
+    .banner-content{
+        margin-right: -2px;
+        
+    }
+    .banner-para{
+        width: 395px;
+    }
+
+    /* main styles */
+
+    .our-plants{
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .plant-para{
+        width: 345px;
+        margin: 0 auto;
+        margin-top: -10px;
+        margin-bottom: 50px;
+
+    }
+    .plant-card-container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 20px;
+    }
+    .btn{
+        height: 50px;
+        font-size: 0.9rem;
+    }
+}
+
