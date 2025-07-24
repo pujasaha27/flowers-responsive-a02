@@ -68,7 +68,10 @@
         display: none;
     }
     .plants-lover-pic img{
-    width: 200%;
+    width: 100%;
+    }
+    .plants-lover-heading{
+        font-size:2rem ;
     }
 }
 
