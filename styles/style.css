@@ -47,6 +47,12 @@
     color: #E95A08;
  }
 
+.fade-color{
+    color: rgba(0, 0, 0, 0.5);
+}
+.font-small{
+    font-size: 1.15rem;
+}
 .para{
     color: rgba(0, 0, 0, 0.5);
     font-size: 1.15rem;
@@ -166,7 +172,7 @@
 }
 .plants-lover-list{
     color: rgba(0, 0, 0, 0.5);
-    font-size: 1rem;
+    font-size: 1.15rem;
     margin-left: -18px;
     /* line-height: 1.5; */
 }
@@ -178,4 +184,15 @@
     margin-top: -620px;
     margin-left: 320px;
     width: 250px;
+}
+
+.deals{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.deals p{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: -10px;
 }

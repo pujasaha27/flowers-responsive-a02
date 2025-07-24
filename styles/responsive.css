@@ -73,5 +73,15 @@
     .plants-lover-heading{
         font-size:2rem ;
     }
+    .deals p{
+    width: 390px;
+    margin: 0 auto;
+    margin-top: -10px;
+    margin-right: 15px;
+    margin-left: 15px;
+    }
+    .deals{
+    margin-top: 70px;
+    }
 }
 
