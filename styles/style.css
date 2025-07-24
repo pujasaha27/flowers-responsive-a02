@@ -90,7 +90,7 @@
     max-width: 500px;
 }
 .banner-title{
-    font-size: 2.4rem;
+    font-size: 2.5rem;
     width: 350px;
 }
 .banner-para{
@@ -108,8 +108,6 @@
     text-align: center;
 }
 .plant-para{
-    width: 660px;
-    margin-left: 190px;
     margin-top: -10px;
 }
 .plant-card-container{
