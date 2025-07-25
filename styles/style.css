@@ -282,3 +282,34 @@
     padding: 20px;
     color: #8987A1 ;
 }
+
+.foot{
+    justify-content: space-between;
+    padding: 70px;
+    gap: 0px;
+}
+.logo-foot{
+    width: 300px;
+    font-size: 1rem;
+    font-weight: 400;
+
+}
+.logo-foot img{
+    width: 50%;
+}
+.logo-foot p{
+    width: 250px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.links{
+    justify-content: space-between;
+    gap: 100px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.social{
+    gap: 40px;
+    padding: 20px;
+} 
+.twitter img{
+   margin-top: 10px;
+}
