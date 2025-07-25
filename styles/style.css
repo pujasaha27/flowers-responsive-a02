@@ -243,3 +243,42 @@
 .none{
     color: white;
 }
+.form{
+    background-color: aquamarine;
+    background-image: url(../assets/news-letter-bg.png);
+    background-size: cover;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 450px;
+    margin-top: 150px;
+}
+.form-text h1{
+    text-align: center;
+    padding-top: 200px;
+    color: white;
+}
+.form-box{
+    /* background-color: #E95A08; */
+    width: 600px;
+    height: 50px;
+    margin: 0 340px;
+
+}
+.form-box .email{
+    height: 50px;
+    width: 450px;
+    border: none;
+}
+.form-box .submit{
+    height: 52px;
+    width: 146px;
+    border: none;
+    margin-left: -4px;
+    background-color: #E95A08;
+    color: white;
+    font-size: 0.9rem;
+}
+.email::placeholder{
+    padding: 20px;
+    color: #8987A1 ;
+}

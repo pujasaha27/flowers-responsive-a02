@@ -19,14 +19,19 @@
     .banner{
         flex-direction: column-reverse;
     }
-    /* .banner-content{
-        margin-right: -2px;
+    .banner-content{
+        margin-right: -10px;
         
-    } */
+    }
     .banner-para{
         width: 395px;
     }
-
+    .banner-pic img{
+        width: 100%;
+    }
+    .banner-pic{
+        margin-right: -10px;
+    }
     /* main styles */
 
     .our-plants{
@@ -96,6 +101,32 @@
     }
     .middle{
     margin-top: 60px;
+    }
+    .form{
+        margin-left: -8px;
+        margin-right: -10px;
+        height: 350px;
+    }
+    .form-box{
+    /* background-color: #E95A08; */
+    width: 320px;
+    margin: 0px 50px;
+    }
+    .form-box .email{
+    height: 40px;
+    width: 230px;
+    border: none;
+    }
+    .form-box .submit{
+    height: 42px;
+    width: 80px;
+    font-size: 0.9rem;
+    padding: 8px;
+    
+    }
+    .form-text h1{
+        font-size: 1.3rem;
+        padding-top: 150px;
     }
 }
 
