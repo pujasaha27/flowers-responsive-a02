@@ -19,12 +19,13 @@
     .banner{
         flex-direction: column-reverse;
     }
-    /* .banner-content{
-        margin-right: -px;
         
-    } */
+    .banner-title{
+        margin-left: -15px;
+    }
     .banner-para{
         width: 380px;
+        margin-left: -15px;
     }
     .banner-pic img{
         width: 100%;
